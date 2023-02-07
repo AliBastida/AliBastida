@@ -1,7 +1,8 @@
-### Hello! And welcome to my personal repository. Here, you could find everything I am learning in my coding studies in 42Barcelona!
-
 ![Name](https://github.com/sharannyobasu/sharannyobasu/blob/master/Hello(1).gif)
-  Alicia Bastida
+
+### Alicia Bastida
+
+  Welcome to my personal repository. Here, you could find everything I am learning in my coding studies in 42Barcelona!
   
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:houshuai0816@gmail.com)](mailto:alibastida@gmail.com)
 

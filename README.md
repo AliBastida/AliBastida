@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hello! And welcome to my personal repository. Here, you could find everything I am learning in my coding studies in 42Barcelona!
 
 <!--
+
+# P-NAME  
 **AliBastida/AliBastida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

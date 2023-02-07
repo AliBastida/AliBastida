@@ -1,5 +1,4 @@
 ![Name](https://github.com/sharannyobasu/sharannyobasu/blob/master/Hello(1).gif)
-
 ### Alicia Bastida
 
   Welcome to my personal repository. Here, you could find everything I am learning in my coding studies in 42Barcelona!

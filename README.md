@@ -30,6 +30,8 @@
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white"/>
 
+
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AliBastida&theme=minimal"/>
 </p>
 <!--
 

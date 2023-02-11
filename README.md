@@ -1,7 +1,7 @@
 ![Name](https://github.com/sharannyobasu/sharannyobasu/blob/master/Hello(1).gif)
 ### Alicia Bastida
 
-  I´m a psychologist studying coding in 42 Barcelona. Welcome to my personal repository. Here, you could find everything I am learning in my coding studies thanks to 42!
+  I´m a code student in 42 Barcelona. Welcome to my personal repository. Here, you could find everything I am doing and learning!
 
 📫 How to reach me:
 

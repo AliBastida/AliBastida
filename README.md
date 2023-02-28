@@ -11,11 +11,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AliBastida&show_icons=true&hide_border=true" />
 </a>
 
----
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AliBAstida&theme=deuteranopia-friendly-theme&date_format=M%20j%5B%2C%20Y%5D&type=png&background=FFFFFF)](https://git.io/streak-stats)
-
----
 
 <a href="https://github.com/Daggy1234">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliBastida&layout=compact" />
